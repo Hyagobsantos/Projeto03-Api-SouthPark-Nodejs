@@ -1,2 +1,2 @@
-# Projeto03-Api-AnimeList-blueEdtech
+# Projeto03-Api-SouthPark-blueEdtech
 
