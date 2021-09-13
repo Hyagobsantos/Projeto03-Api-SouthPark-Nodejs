@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const { Router } = require('express');
-const {principal,listarTodosMoradores,listarMoradorPorId,listarTodosEpisodios,criarMorador,AtualizarMorador,deletarMotador, filtarMoradores} = require("../controller/controller");
+const {principal,listarTodosMoradores,listarMoradorPorId,listarTodosEpisodios,criarMorador,AtualizarMorador,deletarMotador, filtarMoradores, listarEpisodeoPorId} = require("../controller/controller");
 const cors = require("cors");
 
 //Cors
@@ -22,5 +22,6 @@ router.get("/morador", filtarMoradores )
 
 //Episodeos
 router.get("/episodios", listarTodosEpisodios)
+router.get("/episodios/:id", listarEpisodeoPorId)
 
 module.exports = router;
