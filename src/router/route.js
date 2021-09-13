@@ -8,7 +8,7 @@ router.use(cors());
 router.options("*", cors())
 
 //Principal
-router.get("/principal", principal);
+router.get("/", principal);
 
 //Moradores
 router.get("/moradores", listarTodosMoradores);
