@@ -14,7 +14,6 @@
 
 *API Criada com o intuito acadêmico para consolidar conhecimentos adquiridos durante o curso de programação BackEnd - utilizando as Tecnologias NodeJs, MongoDb, Express*
 
-
 ## Como usar Esse Projeto 
 
 Para utilizar o projeto faça o dowload do arquivo zip, ou faça o clone em seu computador utilizando o Git. Execute o comando `npm i` dentro da pasta do projeto em seu computador(a pasta que contém o arquivo package.json), para baixar as dependencias do projeto.
