@@ -21,7 +21,7 @@ const validaDelete = (req,res,next) => {
         if(req.query.senha === undefined){
             res.status(400).json({erro: "Senha Não Informada"})
         }else if(req.query.senha != senha){
-            res.status(400).json({erro: "Senha Inválida"})
+            res.status(401).json({erro: "Senha Inválida"})
         }else{
             next();
         }
