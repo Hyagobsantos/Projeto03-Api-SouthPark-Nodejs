@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hyagobsantos/Projeto03-Api-AnimeList-blueEdtech.git"
+    "url": "git+https://github.com/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hyagobsantos/Projeto03-Api-AnimeList-blueEdtech/issues"
+    "url": "https://github.com/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs/issues"
   },
-  "homepage": "https://github.com/Hyagobsantos/Projeto03-Api-AnimeList-blueEdtech#readme",
+  "homepage": "https://github.com/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
