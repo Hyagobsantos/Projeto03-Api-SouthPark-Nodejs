@@ -1,8 +1,8 @@
 # Api SouthPark - NodeJs + Mongodb 
 
-<!-- <img src="../../" alt="SouthPark Logo" style="zoom:33%;" />
+<!-- <img src="../../" alt="SouthPark Logo" style="zoom:33%;" /> -->
 
-![Alt text](relative/path/backup/capadocu.jpg?raw=true "Title") -->
+![South Park](https://github.com/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs/blob/master/backup/capadocu.jpg?raw=true)
 
 <p align="center">
     <img src="https://img.shields.io/github/languages/count/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?label=Linguagens" />
