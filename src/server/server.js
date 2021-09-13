@@ -1,7 +1,7 @@
 const express = require("express");
 require("express-async-errors");
-const roteador = require("./src/route");
-const {tratamentoErros,validacaoEndPoint,validaDelete} = require("./src/middlewares")
+const roteador = require("../router/route");
+const {tratamentoErros,validacaoEndPoint,validaDelete} = require("../middleware/middlewares")
 
 
 const app = express();

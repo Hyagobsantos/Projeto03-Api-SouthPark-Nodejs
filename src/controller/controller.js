@@ -1,4 +1,4 @@
-const {caracter,episodeos,ObjectId} = require("./database");
+const {caracter,episodeos,ObjectId} = require("../database/database");
 const {buscarMorador, verificaDuplicata,verificaCamposMoradores,verificaCriacao,validarCamponNi,eplistaCri} = require("./functionAux");
 
 //Rota Home

@@ -1,4 +1,4 @@
-const {caracter,episodeos,ObjectId} = require("./database");
+const {caracter,episodeos,ObjectId} = require("../database/database");
 
 
 // async function eplistaCri(doc){

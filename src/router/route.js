@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const { Router } = require('express');
-const {principal,listarTodosMoradores,listarMoradorPorId,listarTodosEpisodios,criarMorador,AtualizarMorador,deletarMotador} = require("./controller");
+const {principal,listarTodosMoradores,listarMoradorPorId,listarTodosEpisodios,criarMorador,AtualizarMorador,deletarMotador} = require("../controller/controller");
 
 
 router.get("/principal", principal);
