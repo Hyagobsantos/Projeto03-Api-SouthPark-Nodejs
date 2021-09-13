@@ -151,9 +151,9 @@ https://apisouthpark.herokuapp.com/episodios
 ```
 
 
-Desenvolvido Por  - [Hyago Bezerra](https://github.com/Hyagobsantos) 
+<!-- Desenvolvido Por  - [Hyago Bezerra](https://github.com/Hyagobsantos) 
 
-api southPark -  [MIT licensed](LICENSE).
+api southPark -  [MIT licensed](LICENSE). -->
 
 <p style="text-align:center">
     Muito Obrigado!
