@@ -1,5 +1,6 @@
 const {caracter,episodeos,ObjectId} = require("../database/database");
 
+//função comentado para uma possivel melhoria do projeto a ideia e pra quando cadastrar um episodeo puxar as info dos personagem no episodeo na coletion caracter
 
 // async function eplistaCri(doc){
 //     const teste = doc.episodeo.split(",");
