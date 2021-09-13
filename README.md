@@ -2,8 +2,6 @@
 
 
 
-
-
 <p align="center">
     <img src="https://img.shields.io/github/languages/count/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?label=Linguagens" />
     <img src="https://img.shields.io/github/languages/top/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?style=flat-square&logo=javascript">
