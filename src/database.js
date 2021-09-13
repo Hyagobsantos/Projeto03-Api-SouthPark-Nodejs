@@ -9,8 +9,9 @@ cliente.connect(() => {
     console.log("Conectado Com Sucesso")
 });
 
-const db = cliente.db("db_animes");
-const anime = db.collection('animes');
+const db = cliente.db("db_southpark");
+const caracter = db.collection('characters');
+const episodeos = db.collection('episodeos');
 
-module.exports = {anime,ObjectId};
+module.exports = {caracter,episodeos,ObjectId};
 

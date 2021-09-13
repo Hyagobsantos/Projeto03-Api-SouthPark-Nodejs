@@ -1,0 +1,93 @@
+[
+    {
+        "nome":"Eric Cartman",
+        "idade":8,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Marrom",
+        "religiao":"católico",
+        "imgUrl":"https://upload.wikimedia.org/wikipedia/en/7/77/EricCartman.png"
+    },
+    {
+        "nome":"Kyle Broflovski",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"vermelho",
+        "religiao":"Judaismo",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest/scale-to-width-down/350?cb=20190411033301"
+    },
+    {
+        "nome":"Tweek Tweak",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Loiro",
+        "religiao":"Budismo",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/9/9d/Tweek_pic.png/revision/latest/scale-to-width-down/350?cb=20160402115548"
+    }, 
+    {
+        "nome":"Stan Marsh",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Preto",
+        "religiao":"católico",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/c/c6/Stan-marsh-0.png/revision/latest/scale-to-width-down/319?cb=20210107202918"
+    },
+    {
+        "nome":"Damien Thorn",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Preto",
+        "religiao":"Satanismo",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/7/77/DamienThorn.png/revision/latest/scale-to-width-down/335?cb=20170322005555"
+    },
+    {
+        "nome":"Kenny McCormick",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Loiro",
+        "religiao":"católico",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/6/6f/KennyMcCormick.png/revision/latest/scale-to-width-down/350?cb=20160409020502"
+    },
+    {
+        "nome":"Butters Stotch",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Loiro",
+        "religiao":"católico",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/0/06/ButtersStotch.png/revision/latest/scale-to-width-down/316?cb=20190411032405"
+    },
+    {
+        "nome":"Craig Tucker",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Preto",
+        "religiao":"católico",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/c/c2/Craig-tucker.png/revision/latest/scale-to-width-down/327?cb=20160402121203"
+    },
+    {
+        "nome":"Pip Pirrip",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Loiro",
+        "religiao":"Protestante anglicano",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/c/c2/Craig-tucker.png/revision/latest/scale-to-width-down/327?cb=20160402121203"
+    },
+    {
+        "nome":"Wendyl Testaburger",
+        "idade":10,
+        "genero":"Masculino",
+        "ocupacao":"Estudante",
+        "cor_cabelo":"Loiro",
+        "religiao":"Protestante anglicano",
+        "imgUrl":"https://static.wikia.nocookie.net/southpark/images/c/c2/Craig-tucker.png/revision/latest/scale-to-width-down/327?cb=20160402121203"
+    }
+
+]

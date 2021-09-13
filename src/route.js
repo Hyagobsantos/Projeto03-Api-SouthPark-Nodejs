@@ -1,11 +1,17 @@
 const router = require('express').Router();
-const {home, listAll,listById} = require("./controller");
+const { Router } = require('express');
+const {principal,listarTodosMoradores,listarMoradorPorId,listarTodosEpisodios,criarMorador,AtualizarMorador,deletarMotador} = require("./controller");
 
 
-router.get("/home", home);
+router.get("/principal", principal);
 
-router.get("/animes", listAll);
-router.get("/animes/:id", listById);
+router.get("/moradores", listarTodosMoradores);
+router.get("/morador/:id", listarMoradorPorId);
+router.post("/morador", criarMorador);
+router.put("/morador/:id",AtualizarMorador)
+router.delete("/morador/:id", deletarMotador)
+
+router.get("/episodios", listarTodosEpisodios)
 
 
 module.exports = router;
