@@ -150,8 +150,8 @@ https://apisouthpark.herokuapp.com/episodios
 ]
 ```
 
-
- Desenvolvido Por  - [Hyago Bezerra](https://github.com/Hyagobsantos) 
+<!-- 
+ Desenvolvido Por  - [Hyago Bezerra](https://github.com/Hyagobsantos)  -->
 
 
 <p style="text-align:center">
