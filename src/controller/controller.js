@@ -62,6 +62,7 @@ const criarMorador = async (req,res) => {
     if(duplicado || campos || criacao ){
         res.status(400).json({erro: duplicado ?? campos ?? criacao})
         return
+
     }
 
     try{

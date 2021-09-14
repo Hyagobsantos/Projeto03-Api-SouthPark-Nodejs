@@ -16,6 +16,7 @@ const tratamentoErros = (error, req,res, next) => {
     })
     next();
 };
+
 const validaDelete = (req,res,next) => {
     if(req.method === "DELETE" || req.method === "POST" || req.method === "PUT"){
         if(req.query.senha === undefined){

@@ -22,7 +22,7 @@ Para utilizar o projeto faça o dowload do arquivo zip, ou faça o clone em seu 
 
 ## Executando o projeto
 
-*Essa API utiliza o mongodb como banco de dados e o mongoose como ODM, então antes de testar a API certifique se você possui o MongoDb instalado em seu computador(https://www.mongodb.com/try/download/community).*
+*Essa API utiliza o mongodb(drive nativo), então antes de testar a API certifique se você possui o MongoDb instalado em seu computador(https://www.mongodb.com/try/download/community).*
 
 Além disso, você precisa criar o arquivo .env com a url do seu banco, *utilize o arquivo .env.exemple para criar o seu*. Esse é um exemplo de string de conexão com o banco de dados: mongodb://localhost:27017/db_southpark.
 

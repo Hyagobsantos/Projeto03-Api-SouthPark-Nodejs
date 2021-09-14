@@ -15,7 +15,7 @@ router.get("/moradores", listarTodosMoradores);
 router.get("/morador/:id", listarMoradorPorId);
 router.post("/morador", criarMorador);
 router.put("/morador/:id",AtualizarMorador)
-router.delete("/morador/:id", deletarMotador)
+router.delete("/morador/:id",deletarMotador)
 
 //Filtro
 router.get("/morador", filtarMoradores )
