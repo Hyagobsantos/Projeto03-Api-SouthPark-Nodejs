@@ -20,9 +20,9 @@ const tratamentoErros = (error, req,res, next) => {
 const validaDelete = (req,res,next) => {
     if(req.method === "DELETE" || req.method === "POST" || req.method === "PUT"){
         if(req.query.senha === undefined){
-            res.status(400).json({erro: "Senha Não Informada"})
+            next();
         }else if(req.query.senha != senha){
-            res.status(401).json({erro: "Senha Inválida"})
+            next();
         }else{
             next();
         }
