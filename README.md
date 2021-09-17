@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/github/languages/count/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?label=Linguagens" />
     <img src="https://img.shields.io/github/languages/top/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?style=flat-square&logo=javascript">
     <img src="https://img.shields.io/github/stars/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?label=Estrelas" />
+    [![Lines of Code](https://img.shields.io/tokei/lines/github/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs)](https://img.shields.io/tokei/lines/github/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs)
     <img src="https://img.shields.io/snyk/vulnerabilities/github/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?color=green&label=Vulnerabilidades" />
     <img src="https://img.shields.io/github/license/Hyagobsantos/Projeto03-Api-SouthPark-Nodejs?color=green&style=flat-square" />
 </p>
